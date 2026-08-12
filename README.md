@@ -9,6 +9,10 @@ A fast, responsive, and feature-rich e-commerce store frontend built with **Reac
 
 ---
 
+ **Live Demo:** [https://store-app-lake-delta.vercel.app](https://store-app-lake-delta.vercel.app)
+
+---
+
 ##  Features
 
 -  **Dynamic Product Catalog:** Fetches and displays live product data dynamically via REST API integration.
