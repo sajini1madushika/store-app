@@ -1,4 +1,4 @@
-# 🛒 StoreApp - Modern E-Commerce Web Application
+#  StoreApp - Modern E-Commerce Web Application
 
 A fast, responsive, and feature-rich e-commerce store frontend built with **React**, **Vite**, and **Tailwind CSS**. This application features a dynamic product catalog, interactive search/category filtering, and a real-time shopping cart system powered by REST API integration.
 
@@ -9,17 +9,17 @@ A fast, responsive, and feature-rich e-commerce store frontend built with **Reac
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📦 **Dynamic Product Catalog:** Fetches and displays live product data dynamically via REST API integration.
-- 🔍 **Real-Time Search & Filtering:** Filter products instantly by category or search terms.
-- 🛒 **Interactive Cart System:** Seamlessly add products, update item quantities, and view real-time subtotal calculations.
-- 📱 **Fully Responsive Layout:** Optimized for mobile, tablet, and desktop screens using modern CSS utility classes.
-- ⚡ **High Performance:** Instant hot module replacement (HMR) and optimized production builds powered by Vite.
+-  **Dynamic Product Catalog:** Fetches and displays live product data dynamically via REST API integration.
+-  **Real-Time Search & Filtering:** Filter products instantly by category or search terms.
+-  **Interactive Cart System:** Seamlessly add products, update item quantities, and view real-time subtotal calculations.
+-  **Fully Responsive Layout:** Optimized for mobile, tablet, and desktop screens using modern CSS utility classes.
+-  **High Performance:** Instant hot module replacement (HMR) and optimized production builds powered by Vite.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Library:** React 18
 - **Build Tool:** Vite
@@ -30,7 +30,7 @@ A fast, responsive, and feature-rich e-commerce store frontend built with **Reac
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 store-app/
@@ -48,11 +48,11 @@ store-app/
 
 ---
 
-## 💡 What I Learned
+What I Learned
 
 Building this project reinforced several core frontend development concepts:
-- **Component Architecture:** Structuring scalable, reusable React components.
-- **State Management:** Managing local and application-wide state cleanly with React Hooks (`useState`, `useEffect`).
-- **Responsive UI:** Utility-first responsive web design with Tailwind CSS.
-- **Async Programming:** Handling asynchronous API requests, loading states, and error handling in single-page applications (SPAs).
+- Component Architecture: Structuring scalable, reusable React components.
+- State Management: Managing local and application-wide state cleanly with React Hooks (`useState`, `useEffect`).
+- Responsive UI: Utility-first responsive web design with Tailwind CSS.
+- Async Programming: Handling asynchronous API requests, loading states, and error handling in single-page applications (SPAs).
 
