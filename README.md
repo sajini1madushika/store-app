@@ -30,6 +30,17 @@ A fast, responsive, and feature-rich e-commerce store frontend built with **Reac
 
 ---
 
+##  What I Learned
+
+Building this project helped me put core frontend software engineering concepts into practice:
+
+- React Component Structure: Learned how to break down a complete user interface into clean, modular, and reusable components instead of writing everything in a single bloated file.
+- State Management & Hooks: Practiced using `useState` to manage interactive features like cart items and quantity updates, alongside `useEffect` to fetch live data when components mount.
+- Responsive Styling with Tailwind CSS: Got practical experience applying utility-first styling to build layouts that automatically adapt across mobile, tablet, and desktop screens.
+- Working with Asynchronous APIs: Gained hands-on experience handling async JavaScript requests, setting up loading states, and gracefully managing error states when rendering dynamic API data.
+
+---
+
 ##  Project Structure
 
 ```text
@@ -46,13 +57,4 @@ store-app/
 ├── postcss.config.js    # PostCSS plugin settings
 └── package.json         # Project metadata and dependencies
 
----
-
-What I Learned
-
-Building this project reinforced several core frontend development concepts:
-- Component Architecture: Structuring scalable, reusable React components.
-- State Management: Managing local and application-wide state cleanly with React Hooks (`useState`, `useEffect`).
-- Responsive UI: Utility-first responsive web design with Tailwind CSS.
-- Async Programming: Handling asynchronous API requests, loading states, and error handling in single-page applications (SPAs).
 
